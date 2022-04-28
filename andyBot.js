@@ -1,5 +1,7 @@
 // Load .env variables on this file
 require("dotenv").config();
+const db = require("./db.js");
+console.log(db);
 
 //
 const { Client, Intents } = require("discord.js");
@@ -25,3 +27,6 @@ client.on("messageCreate", (msg) => {
         console.log(`replied to a message from ${msg.author.username} id:${msg.author}`);
     }
 });
+
+
+//Load the quotes at start and print them from an array.
