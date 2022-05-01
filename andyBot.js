@@ -23,7 +23,9 @@ client.on("messageCreate", async (msg) => {
     if (msg.content == "que onda wacho") {
         //msg.reply("Practicando los pasos prohibidos weon");
         //console.log(`replied to a message from ${msg.author.username} id:${msg.author}`);
-        console.log(await getQuote(conn));
+        console.log(await getQuote(conn, (err, result, fields) => {
+            console.log(result[0].quote);
+        }));
     }
 });
 
@@ -46,3 +48,4 @@ async function getQuote(conn) {
 
 
 //https://discord.com/channels/102860784329052160/565213527673929729/970288707380858961
+//https://stackoverflow.com/questions/6847697/how-to-return-value-from-an-asynchronous-callback-function
