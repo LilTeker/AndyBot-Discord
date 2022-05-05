@@ -2,6 +2,8 @@
 require("dotenv").config();
 const conn = require("./db.js");
 const { Client, Intents } = require("discord.js");
+console.log(conn);
+
 
 
 const client = new Client({
@@ -20,7 +22,7 @@ client.login(process.env.DISCORD_TOKEN);
 //Funcionality
 client.on("messageCreate", (msg) => {
     if (msg.content == "que onda wacho") {
-        let quote = getQuote(conn);
+        let quote = conn.getRandomQuote();
         quote.then(
             (result) => {
                 msg.reply(result[0].quote);
@@ -38,7 +40,7 @@ client.on("messageCreate", (msg) => {
 
 
 //function that uses mysql query callback based library and wraps it on a promise to pass the value to another function
-function getQuote(conn) {
+/* function getQuote(conn) {
     let promise = new Promise(function (resolve, reject) {
         conn.query("SELECT * FROM quotes ORDER BY RAND() LIMIT 1", (err, result, fields) => {
             if (err) reject(err);
@@ -48,7 +50,7 @@ function getQuote(conn) {
     });
 
     return promise;
-}
+} */
 
 
 

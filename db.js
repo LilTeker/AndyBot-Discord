@@ -15,5 +15,19 @@ conn.connect((err) => {
     console.log("connection successful");
 });
 
+function getRandomQuote() {
+    let promise = new Promise(function (resolve, reject) {
+        conn.query("SELECT * FROM quotes ORDER BY RAND() LIMIT 1", (err, result, fields) => {
+            if (err) reject(err);
+            console.log(result[0].quote); //result es un "array" result[0].quote nos da el texto
+            resolve(result);
+        });
+    });
 
-module.exports = conn;
+    return promise;
+}
+
+module.exports = {
+    conn: conn,
+    getRandomQuote: getRandomQuote
+};
