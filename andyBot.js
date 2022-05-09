@@ -2,7 +2,6 @@
 require("dotenv").config();
 const conn = require("./db.js");
 const { Client, Intents } = require("discord.js");
-console.log(conn);
 
 
 
@@ -21,7 +20,7 @@ client.login(process.env.DISCORD_TOKEN);
 
 //Funcionality
 client.on("messageCreate", (msg) => {
-    if (msg.content == "que onda wacho") {
+    if (msg.content == "Andygod") {
         let quote = conn.getRandomQuote();
         quote.then(
             (result) => {
