@@ -1801,36 +1801,6 @@
       "mentions": []
     },
     {
-      "id": "843231158778724394",
-      "type": "Default",
-      "timestamp": "2021-05-15T20:59:34.73+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": true,
-      "content": "",
-      "author": {
-        "id": "321525501552230401",
-        "name": "javiertg_26",
-        "discriminator": "5761",
-        "nickname": "Lil Trrrrrrrrrrrrrrres",
-        "color": "#1ABC9C",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
-      },
-      "attachments": [
-        {
-          "id": "843231158891446312",
-          "url": "https://cdn.discordapp.com/attachments/840980990012162089/843231158891446312/La_biografia_de_andres.png",
-          "fileName": "La_biografia_de_andres.png",
-          "fileSizeBytes": 1434545
-        }
-      ],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
       "id": "843231180144115732",
       "type": "ChannelPinnedMessage",
       "timestamp": "2021-05-15T20:59:39.824+00:00",
@@ -2911,82 +2881,6 @@
       "mentions": []
     },
     {
-      "id": "845721087664848936",
-      "type": "Default",
-      "timestamp": "2021-05-22T17:53:40.037+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "321525501552230401",
-        "name": "javiertg_26",
-        "discriminator": "5761",
-        "nickname": "Lil Trrrrrrrrrrrrrrres",
-        "color": "#1ABC9C",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
-      },
-      "attachments": [
-        {
-          "id": "845721087387238420",
-          "url": "https://cdn.discordapp.com/attachments/840980990012162089/845721087387238420/NuevoFichaje.jpg",
-          "fileName": "NuevoFichaje.jpg",
-          "fileSizeBytes": 201015
-        }
-      ],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83C\uDD71️",
-            "isAnimated": false,
-            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f171.svg"
-          },
-          "count": 1
-        },
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83C\uDDEA",
-            "isAnimated": false,
-            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ea.svg"
-          },
-          "count": 1
-        },
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83C\uDDF9",
-            "isAnimated": false,
-            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f9.svg"
-          },
-          "count": 1
-        },
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83C\uDDEE",
-            "isAnimated": false,
-            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1ee.svg"
-          },
-          "count": 1
-        },
-        {
-          "emoji": {
-            "id": "",
-            "name": "\uD83C\uDDF8",
-            "isAnimated": false,
-            "imageUrl": "https://twemoji.maxcdn.com/2/svg/1f1f8.svg"
-          },
-          "count": 1
-        }
-      ],
-      "mentions": []
-    },
-    {
       "id": "845721129468690503",
       "type": "Reply",
       "timestamp": "2021-05-22T17:53:50.004+00:00",
@@ -3614,36 +3508,6 @@
       "mentions": []
     },
     {
-      "id": "847094968727240755",
-      "type": "Default",
-      "timestamp": "2021-05-26T12:52:58.808+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "321525501552230401",
-        "name": "javiertg_26",
-        "discriminator": "5761",
-        "nickname": "Lil Trrrrrrrrrrrrrrres",
-        "color": "#1ABC9C",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
-      },
-      "attachments": [
-        {
-          "id": "847094968513462272",
-          "url": "https://cdn.discordapp.com/attachments/840980990012162089/847094968513462272/Z.png",
-          "fileName": "Z.png",
-          "fileSizeBytes": 129971
-        }
-      ],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
       "id": "847094993835655210",
       "type": "Default",
       "timestamp": "2021-05-26T12:53:04.794+00:00",
@@ -3661,36 +3525,6 @@
         "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
       },
       "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "847095011907731508",
-      "type": "Default",
-      "timestamp": "2021-05-26T12:53:09.103+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "321525501552230401",
-        "name": "javiertg_26",
-        "discriminator": "5761",
-        "nickname": "Lil Trrrrrrrrrrrrrrres",
-        "color": "#1ABC9C",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
-      },
-      "attachments": [
-        {
-          "id": "847095011550953503",
-          "url": "https://cdn.discordapp.com/attachments/840980990012162089/847095011550953503/9k.png",
-          "fileName": "9k.png",
-          "fileSizeBytes": 127190
-        }
-      ],
       "embeds": [],
       "stickers": [],
       "reactions": [],
@@ -5802,36 +5636,6 @@
       "mentions": []
     },
     {
-      "id": "851165795090563100",
-      "type": "Default",
-      "timestamp": "2021-06-06T18:28:59.445+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "321525501552230401",
-        "name": "javiertg_26",
-        "discriminator": "5761",
-        "nickname": "Lil Trrrrrrrrrrrrrrres",
-        "color": "#1ABC9C",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
-      },
-      "attachments": [
-        {
-          "id": "851165794779004938",
-          "url": "https://cdn.discordapp.com/attachments/840980990012162089/851165794779004938/uno_card-redreverse.png",
-          "fileName": "uno_card-redreverse.png",
-          "fileSizeBytes": 22549
-        }
-      ],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
       "id": "851165887900680192",
       "type": "Default",
       "timestamp": "2021-06-06T18:29:21.573+00:00",
@@ -6736,36 +6540,6 @@
       "mentions": []
     },
     {
-      "id": "851172335792422952",
-      "type": "Default",
-      "timestamp": "2021-06-06T18:54:58.87+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "321525501552230401",
-        "name": "javiertg_26",
-        "discriminator": "5761",
-        "nickname": "Lil Trrrrrrrrrrrrrrres",
-        "color": "#1ABC9C",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
-      },
-      "attachments": [
-        {
-          "id": "851172335557673020",
-          "url": "https://cdn.discordapp.com/attachments/840980990012162089/851172335557673020/9k.png",
-          "fileName": "9k.png",
-          "fileSizeBytes": 65069
-        }
-      ],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
       "id": "851172607423807529",
       "type": "Default",
       "timestamp": "2021-06-06T18:56:03.632+00:00",
@@ -7069,36 +6843,6 @@
         "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
       },
       "attachments": [],
-      "embeds": [],
-      "stickers": [],
-      "reactions": [],
-      "mentions": []
-    },
-    {
-      "id": "852108465680678932",
-      "type": "Default",
-      "timestamp": "2021-06-09T08:54:49.628+00:00",
-      "timestampEdited": null,
-      "callEndedTimestamp": null,
-      "isPinned": false,
-      "content": "",
-      "author": {
-        "id": "321525501552230401",
-        "name": "javiertg_26",
-        "discriminator": "5761",
-        "nickname": "Lil Trrrrrrrrrrrrrrres",
-        "color": "#1ABC9C",
-        "isBot": false,
-        "avatarUrl": "https://cdn.discordapp.com/avatars/321525501552230401/34fcdb48559efa192dc6669b9d79f188.png?size=512"
-      },
-      "attachments": [
-        {
-          "id": "852108465572675584",
-          "url": "https://cdn.discordapp.com/attachments/840980990012162089/852108465572675584/AndresMisogino.png",
-          "fileName": "AndresMisogino.png",
-          "fileSizeBytes": 42821
-        }
-      ],
       "embeds": [],
       "stickers": [],
       "reactions": [],
